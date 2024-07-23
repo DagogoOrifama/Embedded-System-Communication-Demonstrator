@@ -42,3 +42,7 @@ For future improvements:
 
 ## Acknowledgements
 Thanks to the supervisor, assessors, friends, and family for their support and contributions to the success of this project. Special thanks to Shell Petroleum Development Company (SPDC) Nigeria for financial support.
+
+## Author
+**Dagogo Gowin Orifama**  
+**dagoris2010@gmail.com**
